@@ -1,0 +1,238 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+/* header */
+.bannerr{
+    background-image: url(img/bannerr-top.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+
+.title-sectionn h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 65px;
+    font-weight: 900;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.title-sectionn p{
+    color: white;
+}
+
+.btn{
+    text-decoration: none;
+    color: white;
+    padding: 10px 25px;
+    display: inline-block;
+    margin-top: 20px;
+    background-color: #FF5959;
+    border-radius: 5px;
+}
+.title-sectionn{
+    margin-top: 160px;
+    display: inline-block;
+    margin-left: 23%;
+    text-align: center;
+}
+
+
+
+
+/* Donate-Today-Container */
+
+.Donate-Today-Container{
+    height: 500px;
+}
+
+.Donate-Today{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.Donate-Today h1{
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.Donate-Today p{
+    color: #707070;
+}
+
+.pricing-group{
+    display: flex;
+    margin-left: 20%;
+    margin-top: 60px;
+}
+
+.pricing-group h2{
+    text-align: center;
+    margin-top: 60px;
+    color: #707070;
+}
+
+.pricing-group div{
+    margin-left: 5%;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+
+}
+
+#tk200{
+    background-color: #FFEEEE;
+    border: 1px solid #FF5959;
+    color: #FF5959;
+}
+
+#tk200 h2{
+    color: #FF5959;
+}
+
+
+.Other-Amount{
+    margin-left: 47%;
+    margin-top: 60px;
+    border: none;
+}
+
+.Other-Amount-container hr{
+    width: 52%;
+}
+
+.Other-Amount-container a{
+    margin-left: 46%;
+}
+
+
+
+
+
+
+/* Our-Donate-Plan */
+
+.Our-Donate-Plan{
+    height: 600px;
+}
+
+
+.Plan-pricing-group{
+    display: flex;
+    margin-left: 11%;
+    margin-top: 60px;
+
+}
+
+.Plan-pricing-group div{
+    width: 360px;
+    height: 360px;
+    background-color: rebeccapurple;
+    margin-left: 24px;
+    border-radius: 10px;
+}
+
+#one{
+    background-color: #4e9ea631;
+}
+
+#tow{
+    background-color: #ff595931;
+}
+
+#three{
+    background-color: #FFF4D6;
+}
+
+.three-section-text h2{
+    padding-left: 30px;
+}
+
+.three-section-text p{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.three-section-text img{
+    padding-left: 30px;
+    padding-top: 65px;
+}
+
+
+
+
+/* Their lives depend on your donation */
+
+.donation-container{
+    display: flex;
+    margin-top: 130px;
+}
+
+.half-wide{
+    margin-left: 12%;
+}
+
+.half-wide h1{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.half-wide img{
+    width: 456px;
+    height: 477px;
+}
+
+
+/* Donate-Today */
+
+.input-box{
+    background-color: #fff0c8;
+    width: 809px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.type-email{
+    width: 275px;
+    height: 48px;
+    border: none;
+    margin-top: 80px;
+    margin-left: 190px;
+    padding-left: 20px;
+}
+
+.input-box-flex{
+   display: flex;
+}
+
+.Subscribe-btn{
+    text-decoration: none;
+    margin-top: 80px;
+    padding: 10px 25px;
+    background-color: #FF5959;
+    color: white;
+}
+
+/* footer */
+.footer-bg{
+    margin-top: 130px;
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+
+.footer-logo{
+    text-align: center;
+}
+
+.footer-logo img{
+    margin-top: 80px;
+}
+
+.footer-logo p{
+    color: white;
+}
